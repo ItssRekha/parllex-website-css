@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body,html{
+    
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    
+}
+
+.img1, .img2,  .img3{
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+.img1{
+    background-image: url("images/hd.jpg");
+    min-height: 100vh;
+
+}
+ .img2{
+    background-image: url("images/na.jpg");
+    min-height: 400px;
+
+}
+.img3{
+    background-image: url("images/park.jpg");
+    min-height: 400px;
+
+}
+.text{
+    width: 100%;
+    font-size: 30px;
+    letter-spacing: 7px;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    position: absolute;
+    top: 30%;
+}
+
+.textbg{    
+    padding: 20px;
+    color: black;
+}
+.para{
+    background-color:whitesmoke;
+    color: #666;
+    font-size: 20px;
+    padding: 30px 100px;
+    text-align: center;
+
+    
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
